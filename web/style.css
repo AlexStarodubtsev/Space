@@ -1,0 +1,19 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+#canvas {
+    width: 100%;
+    height: 100%;
+}
+#fps {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    color: red;
+    background-color: lightgrey;
+}
