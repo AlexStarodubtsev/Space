@@ -278,7 +278,7 @@ if (BABYLON.Engine.isSupported()) {
 
             // v+=earthParams.a*1.01;
             earthParams.init();
-            v=earthParams.a*5;
+            v=earthParams.a*6;
             if (earthParams.r*2>=config.EARTH_RADIUS+config.SUN_RADIUS-2)
             {
 
